@@ -1,0 +1,5 @@
+ADDED r3f v3
+airdrop
+missions
+
+added getMagazineDetailAmmo = [_path, "getMagazineDetailAmmo.sqf"] call mf_compile;
